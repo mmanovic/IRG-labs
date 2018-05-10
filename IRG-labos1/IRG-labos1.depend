@@ -1,0 +1,108 @@
+# depslib dependency file v1.0
+1489170014 source:c:\users\mato\desktop\labos\irg-labos1\ivector.cpp
+
+1489339692 source:c:\users\mato\desktop\labos\irg-labos1\abstractvector.cpp
+	"AbstractVector.h"
+	<math.h>
+	<iostream>
+	<algorithm>
+	<string>
+	<stdio.h>
+
+1489318283 c:\users\mato\desktop\labos\irg-labos1\abstractvector.h
+	"AbstractVector.h"
+	"IVector.h"
+
+1489318313 c:\users\mato\desktop\labos\irg-labos1\ivector.h
+	<string>
+
+1489225404 c:\users\mato\desktop\labos\irg-labos1\irg.h
+
+1490365023 source:c:\users\mato\desktop\labos\irg-labos1\main.cpp
+	<iostream>
+	"IVector.h"
+	"Vector.h"
+	"Matrix.h"
+	"IMatrix.h"
+	<stdio.h>
+	<string>
+
+1489230124 c:\users\mato\desktop\labos\irg-labos1\vector.h
+	<string>
+	<vector>
+	"AbstractVector.h"
+	"Vector.h"
+
+1489339806 source:c:\users\mato\desktop\labos\irg-labos1\vector.cpp
+	"Vector.h"
+	<vector>
+	<cstring>
+	<cstdio>
+	<iostream>
+
+1489334566 source:c:\users\mato\desktop\labos\irg-labos1\abstractmatrix.cpp
+	"AbstractMatrix.h"
+	"MatrixTransposeView.h"
+	"MatrixSubMatrixView.h"
+	<string>
+	<stdio.h>
+	<math.h>
+
+1489250490 source:c:\users\mato\desktop\labos\irg-labos1\imatrix.cpp
+	"IMatrix.h"
+
+1489333745 source:c:\users\mato\desktop\labos\irg-labos1\matrix.cpp
+	"Matrix.h"
+	<stdio.h>
+	<string>
+	<vector>
+
+1489250568 c:\users\mato\desktop\labos\irg-labos1\matrix.h
+	"AbstractMatrix.h"
+	<vector>
+	<string>
+	"AbstractMatrix.h"
+
+1489271236 c:\users\mato\desktop\labos\irg-labos1\abstractmatrix.h
+	"IMatrix.h"
+	<string>
+
+1489319552 c:\users\mato\desktop\labos\irg-labos1\imatrix.h
+	"IVector.h"
+	<string>
+
+1489334124 source:c:\users\mato\desktop\labos\irg-labos1\matrixsubmatrixview.cpp
+	"MatrixSubMatrixView.h"
+	<vector>
+
+1489249494 source:c:\users\mato\desktop\labos\irg-labos1\matrixtransposeview.cpp
+	"MatrixTransposeView.h"
+
+1489249078 c:\users\mato\desktop\labos\irg-labos1\matrixtransposeview.h
+	"AbstractMatrix.h"
+	<vector>
+	<string>
+
+1489269494 c:\users\mato\desktop\labos\irg-labos1\matrixsubmatrixview.h
+	"AbstractMatrix.h"
+	<vector>
+	<string>
+
+1489316752 source:c:\users\mato\desktop\labos\irg-labos1\matrixvectorview.cpp
+	"MatrixVectorView.h"
+	"Matrix.h"
+
+1489315941 source:c:\users\mato\desktop\labos\irg-labos1\vectormatrixview.cpp
+	"VectorMatrixView.h"
+	<algorithm>
+
+1489315652 c:\users\mato\desktop\labos\irg-labos1\vectormatrixview.h
+	"IVector.h"
+	"IMatrix.h"
+	"AbstractVector.h"
+
+1489315652 c:\users\mato\desktop\labos\irg-labos1\matrixvectorview.h
+	"IVector.h"
+	"IMatrix.h"
+	"AbstractMatrix.h"
+
